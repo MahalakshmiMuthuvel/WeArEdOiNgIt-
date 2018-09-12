@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>
- My First
+ My First 
  </title>
 </head>
 <body>
@@ -19,7 +19,7 @@ myTest(); //Function Call - Only if it is given function is executed
 }
 function learn()
 {
-	static $y=50;
+	static $y=500;// girishmapolasi made this change 
 	echo $y."<br>";
 	++$y;	
 }
